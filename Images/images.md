@@ -1,4 +1,3 @@
-# Images Folder
-
-This folder contains all the images used in this project, including assets for the landing page and sign-in page.
+## Images Folder
+This folder contains all the images used in this project, including assets for demonstrations and visual explanations.
 
