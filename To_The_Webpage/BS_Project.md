@@ -93,6 +93,7 @@ This project demonstrates the creation of a responsive webpage using **HTML** an
 </body>
 </html>
 ```
+![Landing Page 1](https://github.com/AniketP117/BootStrap_Project/blob/6606e75dd5c04e2dd7cd2259af779a966470c807/Images/Login%20Page.png)
 
 ## Images
 Ensure that all images are placed in the `images/` directory and referenced correctly in the HTML files.
