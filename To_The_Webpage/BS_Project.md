@@ -2,6 +2,10 @@
 
 This project demonstrates the creation of a responsive webpage using **HTML** and **Bootstrap**. The webpage consists of a navigation bar, a main content area, and a sign-in page. The layout dynamically adjusts based on the screen size.
 
+## File Structure
+
+![Project Structure](Images/Screenshot 2025-03-04 165057.png)
+
 ## Features
 - Responsive **Navbar** with a Sign-In link
 - **Landing Page** with a coffee theme and images
