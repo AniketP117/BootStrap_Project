@@ -5,20 +5,23 @@ This repository contains the complete code for both projects, including JavaScri
 ## File Structure
 ```
 Project_Repository/
-  ├── Bootstrap_Project/
-  │   ├── BS.html
-  │   ├── signin.html
-  │   ├── README.md
-  │   ├── images/  # Folder containing images for Bootstrap Project
+  ├── Images/
+  │   ├── BS_Images/
+  │   ├── JS_Images/
+  │   ├── images.md
   │
-  ├── JS_Programs/
-  │   ├── even-odd-count.js
-  │   ├── number-sequence.js
-  │   ├── star-pattern.js
-  │   ├── identity-matrix.js
-  │   ├── student-results.js
+  ├── JavaScript_Concepts_Programming/
+  │   ├── JavaScript_Programs.md
   │   ├── README.md
-  │   ├── images/  # Folder containing images for JavaScript Programs
+  │
+  ├── Project_Codes/
+  │   ├── BS_Project.zip
+  │   ├── JS_Project.zip
+  │   ├── Project_Codes.md
+  │
+  ├── To_The_Webpage/
+  │   ├── BS_Project.md
+  │   ├── README.md
 ```
 
 ## Description
