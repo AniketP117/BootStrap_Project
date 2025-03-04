@@ -98,8 +98,9 @@ This project demonstrates the creation of a responsive webpage using **HTML** an
 ## Images
 Ensure that all images are placed in the `images/` directory and referenced correctly in the HTML files.
 
-## Live Preview (Optional)
-If hosted, you can provide a link here.
-
-## License
-This project is open-source and free to use.
+## Future Enhancements
+- Improve the **UI design** by adding animations and transitions.
+- Add a **registration page** for new users.
+- Implement **client-side validation** for form inputs.
+- Enhance **mobile responsiveness** with additional media queries.
+- Include **dark mode** toggle functionality.
