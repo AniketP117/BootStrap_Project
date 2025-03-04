@@ -64,6 +64,8 @@ This project demonstrates the creation of a responsive webpage using **HTML** an
 ```
 ![Landing Page](https://github.com/AniketP117/BootStrap_Project/blob/70a5c51802eb82e6d33bc50d8eb332d67f23e716/Images/Landing%20Page.png)
 
+![Landing Page 1](https://github.com/AniketP117/BootStrap_Project/blob/58782ebd5ccfcc6b7d8a28c0561f87ae1aeb03f6/Images/Landing%20Page2.png)
+
 ### **Sign-In Page (`signin.html`)**
 ```html
 <!DOCTYPE html>
