@@ -4,7 +4,7 @@ This project demonstrates the creation of a responsive webpage using **HTML** an
 
 ## File Structure
 
-![Project Structure]([Images/Screenshot 2025-03-04 165057.png](https://github.com/AniketP117/BootStrap_Project/blob/main/Images/Screenshot%202025-03-04%20165057.png?raw=true))
+![Project Structure](https://github.com/AniketP117/BootStrap_Project/blob/72bb8d2333b3979762d3ccae3e95a8993dbef574/Images/Screenshot%202025-03-04%20165057.png)
 
 ## Features
 - Responsive **Navbar** with a Sign-In link
