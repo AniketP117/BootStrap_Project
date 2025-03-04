@@ -6,11 +6,11 @@ This repository contains various JavaScript programs demonstrating different asp
 
 ```
 /js-programs
-  ├── script.js
-  ├── test1.js
-  ├── test2.js
-  ├── test3.js
-  └── value.js
+  ├── even-odd-count.js
+  ├── number-sequence.js
+  ├── star-pattern.js
+  ├── identity-matrix.js
+  ├── student-results.js
 ```
 
 ## Features
