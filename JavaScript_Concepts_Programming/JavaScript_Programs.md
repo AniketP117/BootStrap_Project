@@ -71,7 +71,7 @@ for (let i = 1; i <= 9; i++) {
   }
 ```
 
-![Star Pattern](https://github.com/AniketP117/BootStrap_Project-JavaScript_Concepts/blob/27ae5863fd31c70f40abe9228b5e0aeecd05be44/Images/JS_Images/Number%20Sequence%20Output.png)
+![Star Pattern](https://github.com/AniketP117/BootStrap_Project-JavaScript_Concepts/blob/cb47761a0d6d33e54630185f73ff01651fd7d218/Images/JS_Images/Star%20Pattern%20Output.png)
 
 ### 4. Identity Matrix (`identity-matrix.js`)
 ```javascript
