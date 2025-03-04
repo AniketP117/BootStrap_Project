@@ -6,6 +6,8 @@ This project demonstrates the creation of a responsive webpage using **HTML** an
 
 ![Project Structure](https://github.com/AniketP117/BootStrap_Project/blob/72bb8d2333b3979762d3ccae3e95a8993dbef574/Images/Screenshot%202025-03-04%20165057.png)
 
+![Project Structure]([https://github.com/AniketP117/BootStrap_Project/blob/72bb8d2333b3979762d3ccae3e95a8993dbef574/Images/Screenshot%202025-03-04%20165057.png](https://github.com/AniketP117/BootStrap_Project/blob/58782ebd5ccfcc6b7d8a28c0561f87ae1aeb03f6/Images/Landing%20Page2.png))
+
 ## Features
 - Responsive **Navbar** with a Sign-In link
 - **Landing Page** with a coffee theme and images
