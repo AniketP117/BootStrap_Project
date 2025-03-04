@@ -35,6 +35,7 @@ for (i=0; i < numbers.length; i++)
 }
     console.log(`Even Count: ${evencount} odd Count: ${oddcount}`);
 ```
+![Even and Odd Count](https://github.com/AniketP117/BootStrap_Project-JavaScript_Concepts/blob/27ae5863fd31c70f40abe9228b5e0aeecd05be44/Images/JS_Images/Even%20and%20Odd%20Count%20Output.png)
 
 ### 2. Number Sequence (`number-sequence.js`)
 ```javascript
@@ -52,6 +53,8 @@ rl.question('Enter a number: ', (num) => {
   rl.close();
 });
 ```
+![Number Sequence](https://github.com/AniketP117/BootStrap_Project-JavaScript_Concepts/blob/27ae5863fd31c70f40abe9228b5e0aeecd05be44/Images/JS_Images/Number%20Sequence%20Output.png)
+
 
 ### 3. Star Pattern (`star-pattern.js`)
 ```javascript
@@ -67,6 +70,8 @@ for (let i = 1; i <= 9; i++) {
     console.log(stars);
   }
 ```
+
+![Star Pattern](https://github.com/AniketP117/BootStrap_Project-JavaScript_Concepts/blob/27ae5863fd31c70f40abe9228b5e0aeecd05be44/Images/JS_Images/Number%20Sequence%20Output.png)
 
 ### 4. Identity Matrix (`identity-matrix.js`)
 ```javascript
@@ -90,6 +95,7 @@ function createMatrix(n) {
  
   createMatrix(3);
 ```
+![Identity Matrix](https://github.com/AniketP117/BootStrap_Project-JavaScript_Concepts/blob/27ae5863fd31c70f40abe9228b5e0aeecd05be44/Images/JS_Images/Identity%20Matrix%20Output.png)
 
 ### 5. Student Results (`student-results.js`)
 ```javascript
@@ -114,6 +120,8 @@ students.forEach(student => {
     console.log(`Roll Number: ${student.rollNumber}, Marks: ${student.marks}, Result: ${Result(student.marks)}`);
 });
 ```
+![Student Results](https://github.com/AniketP117/BootStrap_Project-JavaScript_Concepts/blob/27ae5863fd31c70f40abe9228b5e0aeecd05be44/Images/JS_Images/Student%20Results%20Output.png)
+
 
 ## Usage
 Clone the repository and run each file using Node.js:
