@@ -121,5 +121,9 @@ Clone the repository and run each file using Node.js:
 node <filename.js>
 ```
 
-## License
-This project is open-source and free to use.
+## Future Enhancements
+- Add more complex algorithms and data structure implementations.
+- Improve user input handling and validation.
+- Implement interactive web-based versions of these programs.
+- Optimize performance for large-scale computations.
+- Include test cases for better reliability.se.
