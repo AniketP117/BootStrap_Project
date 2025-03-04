@@ -60,6 +60,7 @@ This project demonstrates the creation of a responsive webpage using **HTML** an
 </body>
 </html>
 ```
+![Landing Page](https://github.com/AniketP117/BootStrap_Project/blob/70a5c51802eb82e6d33bc50d8eb332d67f23e716/Images/Landing%20Page.png)
 
 ### **Sign-In Page (`signin.html`)**
 ```html
